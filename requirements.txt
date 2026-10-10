@@ -1,0 +1,9 @@
+torch>=2.2
+gensim>=4.3
+scikit-learn>=1.3
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+jupyter
+nbformat
+kagglehub  # optional: downloads the dataset from Kaggle (falls back to a GitHub mirror)
